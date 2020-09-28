@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dapascale/deploy-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dapascale/deploy-test/static/js/main.86e192cd.chunk.js",
+    "main.js.map": "/dapascale/deploy-test/static/js/main.86e192cd.chunk.js.map",
+    "runtime-main.js": "/dapascale/deploy-test/static/js/runtime-main.1b5d4bf3.js",
+    "runtime-main.js.map": "/dapascale/deploy-test/static/js/runtime-main.1b5d4bf3.js.map",
+    "static/js/2.6bb47cf4.chunk.js": "/dapascale/deploy-test/static/js/2.6bb47cf4.chunk.js",
+    "static/js/2.6bb47cf4.chunk.js.map": "/dapascale/deploy-test/static/js/2.6bb47cf4.chunk.js.map",
+    "index.html": "/dapascale/deploy-test/index.html",
+    "precache-manifest.2ca7c61bfc8fe57a5963d92f2fd2f352.js": "/dapascale/deploy-test/precache-manifest.2ca7c61bfc8fe57a5963d92f2fd2f352.js",
+    "service-worker.js": "/dapascale/deploy-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dapascale/deploy-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6bb47cf4.chunk.js.LICENSE.txt": "/dapascale/deploy-test/static/js/2.6bb47cf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b5d4bf3.js",
+    "static/js/2.6bb47cf4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.86e192cd.chunk.js"
+  ]
+}
